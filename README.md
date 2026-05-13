@@ -24,10 +24,10 @@ The goal: ship one real product end-to-end, the way a real team would.
 
 ### Tech stack I work with
 
-**Languages:** Python · Bash · SQL
-**Cloud & DevOps:** AWS · Docker · Kubernetes · Terraform · GitHub Actions · Linux
-**Tools:** Git · Helm · Prometheus · Grafana
-**Foundations:** Statistics · Machine Learning · Time Series · Optimisation
+- **Languages:** Python · Bash · SQL
+- **Cloud & DevOps:** AWS · Docker · Kubernetes · Terraform · GitHub Actions · Linux
+- **Tools:** Git · Helm · Prometheus · Grafana
+- **Foundations:** Statistics · Machine Learning · Time Series · Optimisation
 
 ---
 
