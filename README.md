@@ -14,8 +14,8 @@ I'm a mathematician transitioning into DevOps and cloud infrastructure.
 
 I'm currently building a **3-project DevOps portfolio** around a single product (a URL shortener service called `shortly`), shipped at progressively higher engineering maturity:
 
-- 🐳 **`shortly-app`** — Python service, Docker, GitHub Actions CI/CD with security scanning *(in progress)*
-- ☸️ **`shortly-k8s`** — Kubernetes deployment with Helm, Prometheus, Grafana *(coming soon)*
+- 🐳 **`shortly-app`** — Python service, Docker, GitHub Actions CI/CD with security scanning
+- ☸️ **`shortly-k8s`** — Kubernetes deployment with Helm, Prometheus, Grafana
 - 🏗️ **`shortly-infra`** — AWS infrastructure as code with Terraform *(coming soon)*
 
 The goal: ship one real product end-to-end, the way a real team would.
