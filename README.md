@@ -16,7 +16,7 @@ I'm currently building a **3-project DevOps portfolio** around a single product 
 
 - 🐳 **`shortly-app`** — Python service, Docker, GitHub Actions CI/CD with security scanning
 - ☸️ **`shortly-k8s`** — Kubernetes deployment with Helm, Prometheus, Grafana
-- 🏗️ **`shortly-infra`** — AWS infrastructure as code with Terraform *(coming soon)*
+- 🏗️ **`shortly-infra`** — AWS infrastructure as code with Terraform
 
 The goal: ship one real product end-to-end, the way a real team would.
 
